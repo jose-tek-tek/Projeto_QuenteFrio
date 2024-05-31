@@ -1,0 +1,15 @@
+C:\Users\casasbahia\Documents\DevCs\Projeto_QuenteFrio\obj\Debug\net6.0\Projeto_QuenteFrio.csproj.AssemblyReference.cache
+C:\Users\casasbahia\Documents\DevCs\Projeto_QuenteFrio\obj\Debug\net6.0\Projeto_QuenteFrio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casasbahia\Documents\DevCs\Projeto_QuenteFrio\obj\Debug\net6.0\Projeto_QuenteFrio.AssemblyInfoInputs.cache
+C:\Users\casasbahia\Documents\DevCs\Projeto_QuenteFrio\obj\Debug\net6.0\Projeto_QuenteFrio.AssemblyInfo.cs
+C:\Users\casasbahia\Documents\DevCs\Projeto_QuenteFrio\obj\Debug\net6.0\Projeto_QuenteFrio.csproj.CoreCompileInputs.cache
+C:\Users\casasbahia\Documents\DevCs\Projeto_QuenteFrio\bin\Debug\net6.0\Projeto_QuenteFrio.exe
+C:\Users\casasbahia\Documents\DevCs\Projeto_QuenteFrio\bin\Debug\net6.0\Projeto_QuenteFrio.deps.json
+C:\Users\casasbahia\Documents\DevCs\Projeto_QuenteFrio\bin\Debug\net6.0\Projeto_QuenteFrio.runtimeconfig.json
+C:\Users\casasbahia\Documents\DevCs\Projeto_QuenteFrio\bin\Debug\net6.0\Projeto_QuenteFrio.dll
+C:\Users\casasbahia\Documents\DevCs\Projeto_QuenteFrio\bin\Debug\net6.0\Projeto_QuenteFrio.pdb
+C:\Users\casasbahia\Documents\DevCs\Projeto_QuenteFrio\obj\Debug\net6.0\Projeto_QuenteFrio.dll
+C:\Users\casasbahia\Documents\DevCs\Projeto_QuenteFrio\obj\Debug\net6.0\refint\Projeto_QuenteFrio.dll
+C:\Users\casasbahia\Documents\DevCs\Projeto_QuenteFrio\obj\Debug\net6.0\Projeto_QuenteFrio.pdb
+C:\Users\casasbahia\Documents\DevCs\Projeto_QuenteFrio\obj\Debug\net6.0\Projeto_QuenteFrio.genruntimeconfig.cache
+C:\Users\casasbahia\Documents\DevCs\Projeto_QuenteFrio\obj\Debug\net6.0\ref\Projeto_QuenteFrio.dll
